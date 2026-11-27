@@ -272,7 +272,7 @@ flowchart TD
 
 ---
 
-<!--
+
 Remove these comment markers after the 3D workflow
 has successfully generated the contribution graph.
 
@@ -285,7 +285,7 @@ has successfully generated the contribution graph.
 </div>
 
 ---
--->
+
 
 ## 09 // Current Mission
 
